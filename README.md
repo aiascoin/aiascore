@@ -11,7 +11,7 @@ Aias is a cutting edge cryptocurrency, with many features not available in most 
   technology used to secure the network and provide the above features, each Masternode is secured
   with a collateral of 1000 AIAS.
 
-More information at [Aias.org](https://aias.org/) Visit our ANN thread at [BitcoinTalk](http://www.bitcointalk.org/index.php)
+More information at [AIAScoin.com](https://aiascoin.com/) Visit our ANN thread at [BitcoinTalk](https://bitcointalk.org/index.php?topic=4305471)
 
 
 ### Coin Specs
