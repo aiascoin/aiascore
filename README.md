@@ -9,7 +9,7 @@ Aias is a cutting edge cryptocurrency, with many features not available in most 
 - Fast transactions featuring guaranteed zero confirmation transactions, PIVX named it _SwiftX_.
 - Decentralized blockchain voting providing for consensus based advancement of the current Masternode
   technology used to secure the network and provide the above features, each Masternode is secured
-  with a collateral of 20 AIAS.
+  with a collateral of 1000 AIAS.
 
 More information at [Aias.org](https://aias.org/) Visit our ANN thread at [BitcoinTalk](http://www.bitcointalk.org/index.php)
 
